@@ -101,7 +101,7 @@ define method load-mime-types
   with-open-file (stream = pathname)
     iterate loop (line = read-line(stream, on-end-of-file: #f))
       if (line)
-        line := trim(line);
+        line := strip(line);
         if (~empty?(line) & line[0] ~= '#')
           let line-parts = split(line, rcurry(member?, " \t"));
           let type-parts = split(line-parts[0], '/');
