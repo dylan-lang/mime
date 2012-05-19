@@ -58,5 +58,5 @@ define module mime-internal
   use streams,
     import: { with-open-file, read-line, with-output-to-string, write };
   use strings,
-    import: { trim };
+    import: { strip };
 end module mime-internal;
