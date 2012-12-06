@@ -1,6 +1,7 @@
 Module: dylan-user
 Synopsis: MIME tools
 Author: Carl Gay
+Copyright: See LICENSE in this distribution for details.
 
 define library mime
   use common-dylan;
