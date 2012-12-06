@@ -1,6 +1,7 @@
 Module: mime-internal
 Synopsis: MIME tools
 Author: Carl Gay
+Copyright: See LICENSE in this distribution for details.
 
 // So far just simple mime data types and mappings.  Should be expanded to
 // handle MIME message parsing etc.
