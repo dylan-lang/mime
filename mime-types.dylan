@@ -310,6 +310,7 @@ define constant $default-mime-type-map :: <mime-type-map>
       mt("ics",   "text", "calendar");
       mt("ifb",   "text", "calendar");
       mt("css",   "text", "css");
+      mt("csv",   "text", "csv");   // ; header=[present|absent]
       mt("html",  "text", "html");  // ; charset=utf-8
       mt("htm",   "text", "html");  // ; charset=utf-8
       mt("asc",   "text", "plain");
