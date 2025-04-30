@@ -1,0 +1,12 @@
+{
+  "dependencies": [ ],
+  "dev-dependencies": [ "sphinx-extensions" ],
+  "description": "MIME type library",
+  "name": "mime",
+  "version": "0.1.0",
+  "url": "https://github.com/dylan-lang/mime",
+  "keywords": [ "mime" ],
+  "contact": "dylan-lang@googlegroups.com",
+  "license": "MIT",
+  "license-url": "https://opensource.org/license/mit"
+}
