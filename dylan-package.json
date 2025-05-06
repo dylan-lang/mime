@@ -1,12 +1,13 @@
 {
+  "category": "network",
+  "contact": "dylan-lang@googlegroups.com",
+  "description": "MIME type map",
+  "keywords": [ "mime" ],
+  "name": "mime",
   "dependencies": [ ],
   "dev-dependencies": [ "sphinx-extensions" ],
-  "description": "MIME type library",
-  "name": "mime",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "url": "https://github.com/dylan-lang/mime",
-  "keywords": [ "mime" ],
-  "contact": "dylan-lang@googlegroups.com",
   "license": "MIT",
   "license-url": "https://opensource.org/license/mit"
 }
