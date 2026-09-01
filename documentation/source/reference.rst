@@ -19,7 +19,7 @@ The MIME module
 .. class:: <mime-error>
    :open:
 
-   :superclasses: `<format-string-condition>`, :drm:`<error>`
+   :superclasses: :class:`<format-string-condition>`, :drm:`<error>`
 
 .. class:: <mime-type-map>
    :open:
